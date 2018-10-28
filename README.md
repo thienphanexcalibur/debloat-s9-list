@@ -1,6 +1,6 @@
 # debloat-s9-list-rootless
 [Prerequisites]
-This list applies for SAMSUNG variants especially S9/S9+, may apply further for others SAMSUNG devices but use it for your risk.
+This list applies for SAMSUNG variants especially S9/S9+, may apply further for others SAMSUNG devices but use it for your own risk.
 
 ## All bloatwares preinstalled by a vendor which are still being kept in RAM memory thus make your phone slower. More free RAM == better performance 
 I decided to sort and used this list to remove those bloatwares. This guide aims at experienced Android users/ developers. 
