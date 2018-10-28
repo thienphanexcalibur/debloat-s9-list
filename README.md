@@ -1,4 +1,4 @@
-# debloat-s9-list
+# debloat-s9-list-rootless
 [Prerequisites]
 This list applies for SAMSUNG variants especially S9/S9+, may apply further for others SAMSUNG devices but use it for your risk.
 
