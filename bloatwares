@@ -1,0 +1,53 @@
+pm uninstall -k --user 0 com.facebook.services
+pm uninstall -k --user 0 com.facebook.katana
+pm uninstall -k --user 0 com.facebook.system
+pm uninstall -k --user 0 com.facebook.appmanager
+
+pm uninstall -k --user 0 com.samsung.android.bixby.agent
+pm uninstall -k --user 0 com.samsung.android.bixby.es.globalaction
+pm uninstall -k --user 0 com.samsung.android.bixbyvision.framework
+pm uninstall -k --user 0 com.samsung.android.bixby.wakeup
+pm uninstall -k --user 0 com.samsung.android.bixby.plmsync
+pm uninstall -k --user 0 com.samsung.android.app.spage
+pm uninstall -k --user 0 com.samsung.android.bixby.voiceinput
+pm uninstall -k --user 0 com.samsung.systemui.bixby
+pm uninstall -k --user 0 com.samsung.android.bixby.agent.dummy
+pm uninstall -k --user 0 com.samsung.android.visionintelligence
+pm uninstall -k --user 0 flipboard.boxer.app
+
+pm uninstall -k --user 0 com.samsung.android.app.sbrowseredge
+pm uninstall -k --user 0 com.samsung.android.widgetapp.yahooedge.finance
+pm uninstall -k --user 0 com.samsung.android.widgetapp.yahooedge.sport
+pm uninstall -k --user 0 com.samsung.android.app.taskedge
+pm uninstall -k --user 0 com.samsung.android.app.appsedge
+pm uninstall -k --user 0 com.samsung.android.app.clipboardedge
+pm uninstall -k --user 0 com.samsung.android.app.cocktailbarservice
+
+pm uninstall -k --user 0 com.google.vr.vrcore
+
+pm uninstall -k --user 0 com.dsi.ant.service.socket
+pm uninstall -k --user 0 com.dsi.ant.sample.acquirechannels
+pm uninstall -k --user 0 com.dsi.ant.server
+pm uninstall -k --user 0 com.dsi.ant.plugins.antplus
+
+pm uninstall -k --user 0 com.monotype.android.font.rosemary
+pm uninstall -k --user 0 com.monotype.android.font.foundation
+pm uninstall -k --user 0 com.monotype.android.font.chococooky
+pm uninstall -k --user 0 com.monotype.android.font.cooljazz
+
+pm uninstall -k --user 0 com.samsung.android.game.gamehome
+pm uninstall -k --user 0 com.enhance.gameservice
+pm uninstall -k --user 0 com.samsung.android.game.gametools
+
+pm uninstall -k --user 0 com.samsung.android.hmt.vrsvc
+
+pm uninstall -k --user 0 com.samsung.android.app.withtv
+pm uninstall -k --user 0 com.samsung.svoice.sync
+pm uninstall -k --user 0 com.samsung.android.svoiceime
+pm uninstall -k --user 0 com.samsung.android.svoice
+
+pm uninstall -k --user 0 com.samsung.android.drivelink.stub
+pm uninstall -k --user 0 com.samsung.android.messaging
+
+pm uninstall -k --user 0 com.google.android.printservice.recommendation
+pm uninstall -k --user 0 com.android.printspooler
