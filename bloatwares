@@ -38,6 +38,3 @@ pm uninstall -k --user 0 com.samsung.android.svoice
 
 pm uninstall -k --user 0 com.samsung.android.drivelink.stub
 pm uninstall -k --user 0 com.samsung.android.messaging
-
-pm uninstall -k --user 0 com.google.android.printservice.recommendation
-pm uninstall -k --user 0 com.android.printspooler
