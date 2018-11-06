@@ -30,10 +30,6 @@ pm uninstall -k --user 0 com.dsi.ant.sample.acquirechannels
 pm uninstall -k --user 0 com.dsi.ant.server
 pm uninstall -k --user 0 com.dsi.ant.plugins.antplus
 
-pm uninstall -k --user 0 com.monotype.android.font.rosemary
-pm uninstall -k --user 0 com.monotype.android.font.chococooky
-pm uninstall -k --user 0 com.monotype.android.font.cooljazz
-
 pm uninstall -k --user 0 com.samsung.android.game.gamehome
 pm uninstall -k --user 0 com.enhance.gameservice
 pm uninstall -k --user 0 com.samsung.android.game.gametools
