@@ -31,7 +31,6 @@ pm uninstall -k --user 0 com.dsi.ant.server
 pm uninstall -k --user 0 com.dsi.ant.plugins.antplus
 
 pm uninstall -k --user 0 com.monotype.android.font.rosemary
-pm uninstall -k --user 0 com.monotype.android.font.foundation
 pm uninstall -k --user 0 com.monotype.android.font.chococooky
 pm uninstall -k --user 0 com.monotype.android.font.cooljazz
 
