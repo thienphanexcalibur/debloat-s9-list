@@ -16,11 +16,6 @@ pm uninstall -k --user 0 com.samsung.android.visionintelligence
 pm uninstall -k --user 0 flipboard.boxer.app
 
 pm uninstall -k --user 0 com.samsung.android.app.sbrowseredge
-pm uninstall -k --user 0 com.samsung.android.widgetapp.yahooedge.finance
-pm uninstall -k --user 0 com.samsung.android.widgetapp.yahooedge.sport
-pm uninstall -k --user 0 com.samsung.android.app.taskedge
-pm uninstall -k --user 0 com.samsung.android.app.appsedge
-pm uninstall -k --user 0 com.samsung.android.app.clipboardedge
 pm uninstall -k --user 0 com.samsung.android.app.cocktailbarservice
 
 pm uninstall -k --user 0 com.google.vr.vrcore
